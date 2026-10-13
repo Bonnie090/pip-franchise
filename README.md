@@ -22,12 +22,14 @@ Pip comes from the workbook *Trace & Learn with Pip!* by Bonnie McCain James.
 | 6. Series name: *Pip Has a Plan!* | Approved (trademark check still needed) |
 | 7. Story engine | Approved |
 | Episode 1 script | Draft 1 |
-| Episode 1 animatic (28 frames) | In progress: frames 1–19 and 21 made (frame 14 needs another fix, frame 20 still generating) |
+| Episode 1 animatic (28 frames) | In progress: frames 1–21 made (frame 14 needs another fix; frames 22–28 still to come) |
+| Episode 1 animatic video (7:00, silent, captions) | **[Watch it](Animatic/Pip%20Has%20a%20Plan%20-%20Episode%201%20animatic.mp4)**: frames 22–28 show as placeholder cards |
 
 ## Folders
 
 - `Visuals/`: model sheet, lineups, logo concept, Plan Vision frame
 - `Visuals/Episode 1 animatic/`: storyboard frames for Episode 1
+- `Animatic/`: the animatic video, its captions file and the script that builds it (`build-animatic.ps1`, re-run it after adding frames)
 
 ## Tools
 
