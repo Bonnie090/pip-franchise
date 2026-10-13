@@ -18,11 +18,11 @@ Pip comes from the workbook *Trace & Learn with Pip!* by Bonnie McCain James.
 | 2. Pip's character | Approved |
 | 3. Visual animation identity | Approved |
 | 4. Supporting cast | Approved |
-| 5. The Pip universe | Approved |
+| 5. The Pip universe (with 7 pictures) | Approved |
 | 6. Series name: *Pip Has a Plan!* | Approved (trademark check still needed) |
 | 7. Story engine | Approved |
 | Episode 1 script | Draft 1 |
-| Episode 1 animatic (28 frames) | In progress: frames 1–7 and 9 made |
+| Episode 1 animatic (28 frames) | In progress: frames 1–14 made (frames 13 and 14 need fixes) |
 
 ## Folders
 
