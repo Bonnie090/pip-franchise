@@ -29,6 +29,7 @@ Pip comes from the workbook *Trace & Learn with Pip!* by Bonnie McCain James.
 
 - `Visuals/`: model sheet, lineups, logo concept, Plan Vision frame
 - `Visuals/Episode 1 animatic/`: storyboard frames for Episode 1
+- `Animatic/Motion tests/`: first real animated clips (MiniMax H3 chosen as the animation model)
 - `Animatic/`: the animatic video, its captions file and the script that builds it (`build-animatic.ps1`, re-run it after adding frames)
 
 ## Tools
