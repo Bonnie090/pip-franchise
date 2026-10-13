@@ -22,7 +22,7 @@ Pip comes from the workbook *Trace & Learn with Pip!* by Bonnie McCain James.
 | 6. Series name: *Pip Has a Plan!* | Approved (trademark check still needed) |
 | 7. Story engine | Approved |
 | Episode 1 script | Draft 1 |
-| Episode 1 animatic (28 frames) | In progress: frames 1–14 made (frames 13 and 14 need fixes) |
+| Episode 1 animatic (28 frames) | In progress: frames 1–19 and 21 made (frame 14 needs another fix, frame 20 still generating) |
 
 ## Folders
 
